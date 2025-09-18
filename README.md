@@ -4,7 +4,7 @@ A schema management service for JSON/YAML OpenAPI specs. It supports versioning,
 
 ## Setup
 
-1. Clone the repository.
+1. Clone the repository and navigate to the repo.
 
 ```bash
 cd api-schema-manager

@@ -1,6 +1,6 @@
 # API Schema Manager
 
-This project is a minimal schema management API for JSON/YAML OpenAPI specs. It supports versioning, application/service hierarchy, and file persistence.
+A schema management service for JSON/YAML OpenAPI specs. It supports versioning, application/service hierarchy, and file persistence.
 
 ## Setup
 
